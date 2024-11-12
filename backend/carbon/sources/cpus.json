@@ -1,0 +1,18 @@
+{
+    "Basic": {
+        "model": "2.3 GHz Intel XEON E5-2673 v4",
+        "power": 135
+    },
+    "Standard": {
+        "model": "Intel Xeon Platinum 8272CL",
+        "power": 205
+    },
+    "System": {
+        "model": "2.7 GHz Intel Xeon Platinum 8168",
+        "power": 205
+    },
+    "default": {
+        "model": "Intel® Xeon Platinum 8272CL",
+        "power": 205
+    }
+}
